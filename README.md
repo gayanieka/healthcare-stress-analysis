@@ -7,6 +7,12 @@ This project analyzes whether positive healthcare experiences reduce patient str
 To test the statement:
 "Positive healthcare experiences reduce patient stress levels"
 
+
+## Dataset
+Source:  
+https://hrsdata.isr.umich.edu/data-products/rand-hrs-longitudinal-file-2022  
+https://hrsdata.isr.umich.edu/data-products/gateway-harmonized-hrs
+
 ## Methods
 - Descriptive Analysis
 - Inferential Analysis (Shapiro-Wilk, t-test, Spearman correlation)
